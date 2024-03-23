@@ -70,6 +70,7 @@
     "@tsndr/cloudflare-worker-jwt": "^2.2.1",
     "ansi-colors": "^4.1.3",
     "better-sqlite3": "^9.4.3",
+    "bgent": "^0.1.10",
     "figlet": "^1.7.0",
     "inquirer": "^9.2.14",
     "sql.js": "^1.10.2",
